@@ -1,13 +1,8 @@
 Sitcoin
 
-The yi is based on the block chain technology, to digitize the assets and interests of the entity world, to register and issue, transfer transactions, liquidate and other financial services to the central network protocol through peer-to-peer network. 
+Sitcoin是基于区块链技术,将实体世界的资产和权益进行数字化,通过点对点网络进行登记发行,转让交易,清算交割等金融业务的去中心化网络协议。
 
-The ant distributed and distributed network protocol is based on the block chain technology. People can use it to treat assets or shares in digitalis, through peer-to-peer networks and through some financial businesses such as registration and publishing, to make transactions, settlements, and payments. 
-
-Support platform : Windows
+Sitcoin分散和分布式网络协议是基于区块链技术。 人们可以用它来以洋地黄治疗资产或股份,通过点对点网络和完成一些金融业务如注册和发布,使交易、结算和支付
 
 
-Contact us
-
-
-Official website www. sit. com
+网址: www.sitchain.com
